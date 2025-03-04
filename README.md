@@ -20,7 +20,7 @@ A desktop application built in Python using Tkinter that visualizes Lissajous fi
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/lissajous-visualizer.git
+   git clone https://github.com/beepboopshru/lissajous-visualizer.git
    cd lissajous-visualizer
    ```
 
